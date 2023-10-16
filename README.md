@@ -1,11 +1,13 @@
-# 8580_final_project
+# Defense on Robust physical attack against road sign classifer
 
 Contribution : Nushrat Humaira, Reetayan Das
 
 Fgsm detection.py detects perturbation using PCA components
 Siamese_new.py: Implement Siamese network to find image similarity
 
-—Deep Learning is a subset of Machine Learning
+# Abstarct:
+
+Deep Learning is a subset of Machine Learning
 in artificial Intelligence(AI) with networks that are capable
 of learning from unstructured data. With this, we have seen
 Deep Neural Networks (DNNs) to be vulnerable to adversarial
